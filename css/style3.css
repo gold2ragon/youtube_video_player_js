@@ -1,0 +1,28 @@
+.container
+{
+  max-width: 1140px;
+  margin-top: 50px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#main_player
+{
+  display: none;
+}
+#video_lists
+{
+  width: fit-content;
+  margin: auto;
+}
+iframe, video
+{
+  width: 100%;
+}
+.item
+{
+  max-width: 168px;
+  max-height: 94px;
+  display: inline-block;
+}
